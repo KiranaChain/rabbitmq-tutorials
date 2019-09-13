@@ -1,0 +1,27 @@
+{
+  "name": "rabbitmq",
+  "version": "0.0.1",
+  "description": "RabbitMq Tutorials",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KiranaChain/rabbitmq-tutorials.git"
+  },
+  "keywords": [
+    "RabbitMQ",
+    "NodeJs",
+    "Kiranachain"
+  ],
+  "author": "M Mahesh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KiranaChain/rabbitmq-tutorials/issues"
+  },
+  "homepage": "https://github.com/KiranaChain/rabbitmq-tutorials#readme",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
